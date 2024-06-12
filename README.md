@@ -28,7 +28,7 @@ You can install the required packages using pip:
 pip install pandas matplotlib scikit-learn
 
 Clone this repository:
-git clone https://github.com/SaiSamhitha06/customer-segmentation.git
+git clone https://github.com/sunil6133/PRODIGY_TASK02.git
 cd customer-segmentation
 Ensure you have the dataset file Mall_Customers.csv in the same directory as the script.
 
@@ -45,7 +45,7 @@ Print the first few rows of the DataFrame with the cluster assignments.
 Example Output
 The script will display a scatter plot showing the customer segments based on their annual income and spending score. Each segment will be represented by a different color.
 
- ![image](https://github.com/SaiSamhitha06/PRODIGY_ML_TASK02/assets/163017954/763e2872-f53c-4675-bae3-e8653d3cea28)
+ ![image](https://github.com/sunil6133/PRODIGY_TASK02/assets/163017954/763e2872-f53c-4675-bae3-e8653d3cea28)
  
    CustomerID  Gender  Age  Annual Income (k$)  Spending Score (1-100)  Cluster
 0           1    Male   19                  15                      39        4
